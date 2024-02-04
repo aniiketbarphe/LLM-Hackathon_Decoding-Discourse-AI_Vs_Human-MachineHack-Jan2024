@@ -71,3 +71,7 @@ All registered users are eligible to participate in the hackathon. We ask that y
 MLDS 2024 Passes IN PRIZES
 
 The top 3 winners will get MLDS 2024 passes.
+
+![Aniket-private-lb](https://github.com/aniiketbarphe/LLM-Hackathon_Decoding-Discourse-AI_Vs_Human-MachineHack-Jan2024/assets/84449238/7f6b192f-e639-4b33-a929-6b0de5c9e914)
+
+![Aniket-public-LB](https://github.com/aniiketbarphe/LLM-Hackathon_Decoding-Discourse-AI_Vs_Human-MachineHack-Jan2024/assets/84449238/d2fbad5d-cd50-49c5-8597-45fd34fc28ad)
